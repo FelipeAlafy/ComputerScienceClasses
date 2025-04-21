@@ -3,4 +3,4 @@ project(StructuredDevelopment C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(StructuredDevelopment "Aula 1/main.c")
+add_executable(StructuredDevelopment "Class 1/main.c")

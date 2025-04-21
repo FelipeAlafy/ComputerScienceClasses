@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "StructuredDevelopment::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-StructuredDevelopment-Debug-1e4f1cecd77dec461b27.json",
+					"jsonFile" : "target-StructuredDevelopment-Debug-7088578bfa27177fd571.json",
 					"name" : "StructuredDevelopment",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/felipe/Desktop/StructuredDevelopment/cmake-build-debug",
-		"source" : "/Users/felipe/Desktop/StructuredDevelopment"
+		"build" : "/Users/felipe/Desktop/ComputerScienceClasses/StructuredDevelopment/cmake-build-debug",
+		"source" : "/Users/felipe/Desktop/ComputerScienceClasses/StructuredDevelopment"
 	},
 	"version" : 
 	{
